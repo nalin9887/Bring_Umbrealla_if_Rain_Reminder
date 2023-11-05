@@ -27,7 +27,6 @@ To set up the application, clone the repository to your local machine:
 
 ```bash
 git clone https://github.com/yourusername/weather-reminder.git
-```![WhatsApp Image 2023-11-05 at 15 38 40_c962fdc0](https://github.com/nalin9887/Bring_Umbrealla_if_Rain_Reminder/assets/118250631/f13ee37c-777e-4073-94b5-56aeb84968df)
 
 
 ### Installing Dependencies
@@ -37,6 +36,7 @@ Install the required Python packages using pip:
 ```bash
 pip install -r requirements.txt
 ```
+```![WhatsApp Image 2023-11-05 at 15 38 40_c962fdc0](https://github.com/nalin9887/Bring_Umbrealla_if_Rain_Reminder/assets/118250631/f13ee37c-777e-4073-94b5-56aeb84968df)
 
 ### Environment Variables
 
